@@ -64,7 +64,8 @@ localizzazione. L'attributo `allow="geolocation"` dell'iframe è già incluso.
 ## Funzioni comprese
 
 - layout ottimizzato per smartphone, tablet e desktop;
-- 58 servizi complessivi, tutti con segnaposto, e 10 filtri;
+- 53 servizi complessivi, tutti con segnaposto, e 10 filtri;
+- un’unica area parcheggio ufficiale per auto, bus e camper presso lo Stadio Comunale, tra Via Don Bosco e Via dei Cento Comuni d’Italia;
 - 36 punti ristoro, ricerca per nome/via/telefono e 31 numeri chiamabili;
 - elenco dei servizi e schede dettagliate con note sulle posizioni indicative;
 - apertura del punto e indicazioni con Google Maps (per i ristori si cerca nome e indirizzo senza imporre il percorso a piedi);
