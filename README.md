@@ -64,9 +64,26 @@ localizzazione. L'attributo `allow="geolocation"` dell'iframe è già incluso.
 ## Funzioni comprese
 
 - layout ottimizzato per smartphone, tablet e desktop;
-- 24 punti sulla mappa e 10 filtri;
-- elenco dei servizi e schede dettagliate;
-- apertura del punto e navigazione a piedi con Google Maps;
+- 58 servizi complessivi, 27 segnaposto e 10 filtri;
+- 36 punti ristoro, ricerca per nome/via/telefono e 31 numeri chiamabili;
+- elenco dei servizi e schede dettagliate anche per i locali senza coordinate;
+- apertura del punto e indicazioni con Google Maps (per i ristori si cerca nome e indirizzo senza imporre il percorso a piedi);
 - localizzazione dell'utente con messaggi di errore comprensibili;
 - stemma del Comune di Leonforte e loghi dell'evento;
 - modalità tecnica tramite `?admin=1` per leggere e copiare le coordinate.
+
+## Posizioni dei ristori
+
+Tutti i 36 ristori sono nell’elenco Food & Drink, che si apre selezionando la categoria.
+5 hanno un riferimento sulla mappa: AREA FOOD SAGRA, Ciccio’s Burger, Canalotto,
+Il Dolce e do Spizziusu. Le schede indicano quando il riferimento è solo a livello
+di piazza e non all’ingresso del locale. Per gli altri 31 non vengono inventate
+coordinate: i pulsanti Maps usano nome e indirizzo forniti dall’organizzazione.
+Non sono stati aggiunti orari o numeri di telefono non forniti.
+
+La precedente coppia di voci generiche Food & Drink è stata sostituita dall’unica
+AREA FOOD SAGRA, che descrive il tratto da Piazza Branciforti a Piazza Margherita.
+
+Fonti dei riferimenti cartografici aggiuntivi: [Piazza Carella / OpenStreetMap](https://mapcarta.com/W612749313),
+[profilo Canalotto](https://www.tripadvisor.it/Restaurant_Review-g665904-d3165181-Reviews-Agriturismo_Canalotto-Leonforte_Province_of_Enna_Sicily.html)
+e [riscontro Canalotto](https://www.reteimprese.it/agriturismi/leonforte/azienda/403197).
