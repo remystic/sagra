@@ -64,8 +64,8 @@ localizzazione. L'attributo `allow="geolocation"` dell'iframe è già incluso.
 ## Funzioni comprese
 
 - layout ottimizzato per smartphone, tablet e desktop;
-- 53 servizi complessivi, tutti con segnaposto, e 10 filtri;
-- un’unica area parcheggio ufficiale per auto, bus e camper presso lo Stadio Comunale, tra Via Don Bosco e Via dei Cento Comuni d’Italia;
+- 54 servizi complessivi, tutti con segnaposto, e 10 filtri;
+- due aree parcheggio per auto, bus e camper: Via Salina e Via dei Cento Comuni d’Italia / Via Don Bosco, Area Stadio Comunale;
 - 36 punti ristoro, ricerca per nome/via/telefono e 31 numeri chiamabili;
 - elenco dei servizi e schede dettagliate con note sulle posizioni indicative;
 - apertura del punto e indicazioni con Google Maps (per i ristori si cerca nome e indirizzo senza imporre il percorso a piedi);
